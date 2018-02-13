@@ -1,0 +1,76 @@
+/* app css stylesheet */
+
+body {
+  margin: 40px;
+}
+
+.container{
+    flex-direction:row;
+    flex-wrap:wrap;
+
+}
+
+.site-content{
+    margin: auto;
+}
+
+.site-padding-16{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.site-center-text{
+    text-align: center;
+    font-size:0.5em;
+}
+
+.site-row{
+    display: inline-block;
+    width: 160px;
+    height: 180px;
+    margin: 10px;
+    background-color: black;
+}
+
+.after-box {
+    border: 3px solid red;
+}
+
+.site-image-icon-holder{
+    height:150px;
+    width: 150px;
+    background-color: black;
+}
+.site-icon-center{
+    float: right;
+}
+
+.site-icon-text-color{
+    color:white;
+}
+.site-nav-img {
+    width: 128px;
+    height: 128px;
+    padding: 18px;
+}
+
+.site-page {
+    width: 360px;
+    background-color: #b3d4fc;
+}
+.page-icon {
+    margin-left:6em ;
+}
+.page-title {
+    text-align: center;
+}
+.page-back-button {
+    float: left;
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: xx-large;
+    color: white;
+}
+.page-desc{
+    margin: 30px;
+}
